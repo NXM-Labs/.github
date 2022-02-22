@@ -1,9 +1,3 @@
-<p align="center">
-<img src="nxm-logo.svg" alt="drawing" width="200" />
-</p>
-
-<br />
-
 :wave: Welcome to the NXM Github Page!
 
 <br />
